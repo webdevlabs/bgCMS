@@ -22,7 +22,7 @@ class Front extends System {
 	 * @usage $page_data=$this->sample->fetch_page('`pages`.`pid`',$_GET['pid'])
 	 * @usage $page_data=$this->sample->fetch_page('`uri`',$request[1]);
 	 */
- function fetch_page ($colname,$id,$select_lang=false) {
+	public function fetch_page ($colname,$id,$select_lang=false) {
 			if (!$select_lang) { $select_lang=lang::$language; }
 			$page_array=DB::row("SELECT * from `mod_pages` LEFT JOIN `mod_pages_text` USING (page_id)
 				WHERE
@@ -31,7 +31,6 @@ class Front extends System {
 					AND `mod_pages`.`active`='1'
 				ORDER BY FIELD(lang,'".$select_lang."','".lang::$default_lang."') LIMIT 1",array(":id"=>$id));
 		return $page_array;
- }
+ 	}
 
 }
-?>
