@@ -47,11 +47,9 @@ Some of the CMS features:
 - Admin Access Control
 
 Default Modules:
-- Translate
 - Captcha 
   - Google Recaptcha
   - Random Image
 - User
   - Custom User Fields
 - Static Pages
-- Currency
