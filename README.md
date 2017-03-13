@@ -1,16 +1,16 @@
 # bgCMS
-Custom PHP HMVC (Hierarchical model–view–controller) CMS (Content Management System)
+Custom PHP HMVC (*Hierarchical model–view–controller*) CMS (*Content Management System*)
 
 Author: Simeon Lyubenov www.webdevlabs.com
 
 
----- Minimum Requirements (Recommended) ----
+---- Minimum Requirements (*Recommended*) ----
 
-Apache 2 (Apache 2.4) + mod_rewrite enabled
+Apache 2 (*Apache 2.4*) + mod_rewrite enabled
 
-MySQL 5.5 (MySQL 5.6)
+MySQL 5.5 (*MySQL 5.6*)
 
-PHP 5.6 (PHP 7.1)
+PHP 5.6 (*PHP 7.1*)
 
 Some of the CMS features:
 - Responsive Layout
