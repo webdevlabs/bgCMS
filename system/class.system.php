@@ -6,7 +6,7 @@
  * @package bgCMS
  * @author Simeon Lyubenov (ShakE) <office@webdevlabs.com>
  * @link https://www.webdevlabs.com
- * @copyright Copyright (c) 2016 Simeon Lyubenov. All rights reserved.
+ * @copyright Copyright (c) 2017 Simeon Lyubenov. All rights reserved.
   */
 
 abstract class System {
