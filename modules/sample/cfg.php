@@ -1,10 +1,10 @@
 <?php
 // ********************************* bgCMS **************************************
-// ***************************** PAGES MOD v1.0 *********************************
+// ***************************** SAMPLE MOD v1.0 *********************************
 
 return array(
 	'version'=>'1.0',
-	'author'=>'Simeon Lyubenov (lyubenov@gmail.com)',
+	'author'=>'Simeon Lyubenov (office@webdevlabs.com)',
 	'uri'=>'sample',
 	'front_tpl_files'=>array("sample.tpl"),
 	'admin_tpl_files'=>array(),
