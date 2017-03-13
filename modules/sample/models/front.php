@@ -19,8 +19,8 @@ class Front extends System {
 	 * @param string|int $id
 	 * @param string $select_lang lang_name
 	 * @return array
-	 * @usage $page_array=$pages->fetch_page('`pages`.`pid`',$_GET['pid'])
-	 * @usage $page_array=$pages->fetch_page('`uri`',$request[1]);
+	 * @usage $page_data=$this->sample->fetch_page('`pages`.`pid`',$_GET['pid'])
+	 * @usage $page_data=$this->sample->fetch_page('`uri`',$request[1]);
 	 */
  function fetch_page ($colname,$id,$select_lang=false) {
 			if (!$select_lang) { $select_lang=lang::$language; }
