@@ -16,7 +16,9 @@ Some of the CMS features:
 - Responsive Layout
 - Object Oriented Programming (OOP)
 - Extendable Modules
-- Dashboard Widgets
+  - Dashboard Widgets
+  - System Settings Integration 
+- System Dashboard
 - Database Wrapper
 - Message Logger
 - Events Binder
@@ -24,7 +26,7 @@ Some of the CMS features:
 - Encrypted Sessions
 - Registry Objects Container
 - XSS/SQL Inject Protection
-- Custom Input Validation
+- Advanced Input Validation
 - Custom URL Routing
 - Smarty Template Engine
 - Custom E-Mail Templates
@@ -32,10 +34,24 @@ Some of the CMS features:
 - File Management
 - Image Uploader
 - Image resizer
-- Smarty Template File caching
-- Memory caching (OPCache, Memcached, APC)
+- Caching support
+  - Template File caching
+  - Memory caching
+    - OPCache
+    - Memcached
+    - APC
 - Output Optimization
-- Combine JS/CSS files
-- Minify HTML output
-- Gzip compression
+  - Combine JS/CSS files
+  - Minify HTML output
+  - Gzip compression
 - Admin Access Control
+
+Default Modules:
+- Translate
+- Captcha 
+  - Google Recaptcha
+  - Random Image
+- User
+  - Custom User Fields
+- Static Pages
+- Currency
