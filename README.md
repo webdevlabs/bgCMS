@@ -1,21 +1,23 @@
 # bgCMS
 Custom PHP HMVC (Hierarchical model–view–controller) CMS (Content Management System)
+
 Author: Simeon Lyubenov (office@webdevlabs.com) 
 www.webdevlabs.com
 
 
 ---- Minimum Requirements (Recommended) ----
+
 Apache 2 (Apache 2.4) + mod_rewrite enabled
+
 MySQL 5.5 (MySQL 5.6)
+
 PHP 5.6 (PHP 7.1)
 
 Some of the CMS features:
 - Responsive Layout
 - Object Oriented Programming (OOP)
 - Extendable Modules
--- Dashboard Widgets
--- System Settings Integration 
-- System Dashboard
+- Dashboard Widgets
 - Database Wrapper
 - Message Logger
 - Events Binder
@@ -31,14 +33,10 @@ Some of the CMS features:
 - File Management
 - Image Uploader
 - Image resizer
-- Caching support
--- Template File caching
--- Memory caching
---- OPCache
---- Memcached
---- APC
+- Smarty Template File caching
+- Memory caching (OPCache, Memcached, APC)
 - Output Optimization
--- Combine JS/CSS files
--- Minify HTML output
--- Gzip compression
+- Combine JS/CSS files
+- Minify HTML output
+- Gzip compression
 - Admin Access Control
