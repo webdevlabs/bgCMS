@@ -1,8 +1,7 @@
 # bgCMS
 Custom PHP HMVC (Hierarchical model–view–controller) CMS (Content Management System)
 
-Author: Simeon Lyubenov (office@webdevlabs.com) 
-www.webdevlabs.com
+Author: Simeon Lyubenov www.webdevlabs.com
 
 
 ---- Minimum Requirements (Recommended) ----
