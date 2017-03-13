@@ -4,9 +4,7 @@
  * @package bgCMS
  * @author Simeon Lyubenov (ShakE) <office@webdevlabs.com>
  * @link https://www.webdevlabs.com
- * @copyright Copyright (c) 2016 Simeon Lyubenov. All rights reserved.
- * @license NON-EXCLUSIVE LICENSE / Non-redistributable code
- * @note Web Development Labs reserves all intellectual property rights, including copyrights and trademark rights.
+ * @copyright Copyright (c) 2017 Simeon Lyubenov. All rights reserved.
  */
 
 namespace Modules\Sample\Models;
