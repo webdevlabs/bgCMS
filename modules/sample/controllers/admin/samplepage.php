@@ -10,7 +10,6 @@
 namespace Modules\Sample\Controllers\Admin;
 use System;
 use Lang;
-use DB;
 
 class SamplePage extends System {
 	private $tpl_dir;
