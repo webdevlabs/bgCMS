@@ -34,7 +34,7 @@ Some of the CMS features:
 - File Management
 - Image Uploader
 - Image resizer
-- Caching support
+- Caching on multiple levels
   - Template File caching
   - Memory caching
     - OPCache
